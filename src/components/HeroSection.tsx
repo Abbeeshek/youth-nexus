@@ -48,7 +48,7 @@ const HeroSection = () => {
             className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass-light mb-8"
           >
             <Sparkles className="w-4 h-4 text-secondary" />
-            <span className="text-sm font-medium text-foreground">Powered by Metakart & MiniBitcoin</span>
+            <span className="text-sm font-medium text-foreground">Powered by Network Global</span>
           </motion.div>
 
           {/* Title */}
