@@ -51,7 +51,7 @@ const Footer = () => {
             className="space-y-2"
           >
             <p className="text-muted-foreground text-sm">
-              Empowering youth worldwide — A <span className="text-gradient font-semibold">Metakart</span> & <span className="text-gradient-accent font-semibold">MiniBitcoin</span> Powered Initiative
+              Empowering youth worldwide — A <span className="text-gradient font-semibold">Network Global</span> Powered Initiative
             </p>
             <p className="text-muted-foreground/60 text-xs">
               © {new Date().getFullYear()} Youth Association. All rights reserved.
